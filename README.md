@@ -1,0 +1,2 @@
+# Scalper-bot
+scalping automation
